@@ -3,7 +3,7 @@
 ![Pagina de inicio de NINA](https://helloeveryone.me/wp-content/uploads/Pagina-de-inicio.jpg)
 
 ***
-**Deploy temporal para visulización en vivo** ---> [Accede al siguiente link](https://www.25watts.com.ar/)
+**Deploy temporal para visulización en vivo** ---> [Accede al siguiente link](https://ninayco.helloeveryone.me/)
 ***
 ## Requerimientos de entrega:
 
