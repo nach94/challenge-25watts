@@ -1,0 +1,87 @@
+Log created: 2024-04-30 23:37:41
+Type: backup
+[2024-04-30 23:37:41][notice]Start backing up.
+[2024-04-30 23:37:41][notice]server info fcgi:Off max execution time: 300 wp version:6.5.2 php version:8.1.27 db version:10.11.7 php ini:safe_mode: memory_limit:256M memory_get_usage:19,11 MB memory_get_peak_usage:19,60 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-04-30 23:37:41][notice]LiteSpeed Server.
+[2024-04-30 23:37:41][notice]Add LiteSpeed Rule
+[2024-04-30 23:37:41][notice]Prepare to backup backup_db files.
+[2024-04-30 23:37:41][notice]Start exporting database.
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_cerber_files
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_jet_cache
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_jet_post_types
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_jet_smart_filters_indexer
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_jet_taxonomies
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_rank_math_internal_meta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_category_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_reserved_stock
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_cerber_uss
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_e_events
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_links
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_rank_math_internal_links
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_term_relationships
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_product_download_directories
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_rate_limits
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_webhooks
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_log
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_order_items
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_sessions
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_commentmeta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_e_submissions_values
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_litespeed_avatar
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_litespeed_url
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_snippets
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_term_taxonomy
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_termmeta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_terms
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_usermeta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_customer_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_download_log
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_order_operational_data
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_orders_meta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_api_keys
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_e_notes_users_relations
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_litespeed_img_optming
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_users
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_admin_note_actions
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_admin_notes
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_order_stats
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_order_addresses
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_order_product_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_litespeed_url_file
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_comments
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_e_submissions_actions_log
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_wc_orders
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_cerber_sets
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_e_notes
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_e_submissions
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_posts
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_postmeta
+[2024-04-30 23:37:41][notice]Preparing to dump table wp_options
+[2024-04-30 23:37:41][notice]Exporting database finished.
+[2024-04-30 23:37:41][notice]Start compressing database
+[2024-04-30 23:37:41][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631aaf500bd0_2024-04-30-23-37_backup_db.sql
+[2024-04-30 23:37:42][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631aaf500bd0_2024-04-30-23-37_backup_db.part001.zip, filesize: 379,19 KB
+[2024-04-30 23:37:42][notice]Compressing database completed
+[2024-04-30 23:37:42][notice]Backing up backup_db completed.
+[2024-04-30 23:37:42][notice]Backup completed.
+[2024-04-30 23:37:42][notice]LiteSpeed Server.
+[2024-04-30 23:37:42][notice]Clear LiteSpeed Rule

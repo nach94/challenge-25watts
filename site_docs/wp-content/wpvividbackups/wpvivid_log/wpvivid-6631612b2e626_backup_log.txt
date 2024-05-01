@@ -1,0 +1,199 @@
+Log created: 2024-04-30 18:22:51
+Type: backup
+[2024-04-30 18:22:51][notice]Start backing up.
+[2024-04-30 18:22:51][notice]server info fcgi:Off max execution time: 300 wp version:6.5.2 php version:8.3.2 db version:10.11.7 php ini:safe_mode: memory_limit:256M memory_get_usage:15,65 MB memory_get_peak_usage:16,13 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-04-30 18:22:51][notice]LiteSpeed Server.
+[2024-04-30 18:22:51][notice]Add LiteSpeed Rule
+[2024-04-30 18:22:51][notice]Prepare to backup backup_db files.
+[2024-04-30 18:22:51][notice]Start exporting database.
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_cerber_files
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_jet_cache
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_jet_post_types
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_jet_smart_filters_indexer
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_jet_taxonomies
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_category_lookup
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_reserved_stock
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_cerber_uss
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_e_events
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_links
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_term_relationships
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_product_download_directories
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_rate_limits
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_webhooks
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_log
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_order_items
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_sessions
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_cerber_sets
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_commentmeta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_e_submissions_values
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_litespeed_avatar
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_litespeed_url
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_snippets
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_term_taxonomy
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_termmeta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_terms
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_tm_taskmeta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_tm_tasks
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_usermeta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_customer_lookup
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_download_log
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_order_operational_data
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_orders_meta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_api_keys
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_e_notes_users_relations
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_litespeed_img_optming
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_users
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_admin_notes
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_order_stats
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_admin_note_actions
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_order_addresses
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_wc_order_product_lookup
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_litespeed_url_file
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-04-30 18:22:51][notice]Preparing to dump table wp_comments
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_e_submissions_actions_log
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_wc_orders
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_e_notes
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_e_submissions
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_postmeta
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_posts
+[2024-04-30 18:22:52][notice]Preparing to dump table wp_options
+[2024-04-30 18:22:52][notice]Exporting database finished.
+[2024-04-30 18:22:52][notice]Start compressing database
+[2024-04-30 18:22:52][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_db.sql
+[2024-04-30 18:22:52][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_db.part001.zip, filesize: 432,50 KB
+[2024-04-30 18:22:52][notice]Compressing database completed
+[2024-04-30 18:22:52][notice]Backing up backup_db completed.
+[2024-04-30 18:22:52][notice]Prepare to backup backup_themes files.
+[2024-04-30 18:22:52][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_themes.part001.zip index:500
+[2024-04-30 18:22:55][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_themes.part001.zip success. index:500 file size:10,99 MB
+[2024-04-30 18:22:55][notice]Backing up backup_themes completed.
+[2024-04-30 18:22:55][notice]Prepare to backup backup_plugin files.
+[2024-04-30 18:22:57][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:500
+[2024-04-30 18:23:00][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:500 file size:1,28 MB
+[2024-04-30 18:23:00][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:1000
+[2024-04-30 18:23:04][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:1000 file size:2,24 MB
+[2024-04-30 18:23:04][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:1500
+[2024-04-30 18:23:05][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:1500 file size:4,17 MB
+[2024-04-30 18:23:05][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:2000
+[2024-04-30 18:23:06][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:2000 file size:4,75 MB
+[2024-04-30 18:23:06][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:2500
+[2024-04-30 18:23:08][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:2500 file size:6,34 MB
+[2024-04-30 18:23:08][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:3000
+[2024-04-30 18:23:09][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:3000 file size:7,31 MB
+[2024-04-30 18:23:09][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:3500
+[2024-04-30 18:23:11][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:3500 file size:8,07 MB
+[2024-04-30 18:23:11][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:4000
+[2024-04-30 18:23:16][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:4000 file size:19,07 MB
+[2024-04-30 18:23:16][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:4500
+[2024-04-30 18:23:20][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:4500 file size:20,56 MB
+[2024-04-30 18:23:20][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:5000
+[2024-04-30 18:23:21][notice]In shutdown function last message type:8192 str:Creation of dynamic property Timber\Integrations::$wpml is deprecated
+[2024-04-30 18:23:21][error]Task timed out.
+[2024-04-30 18:23:33][notice]Start backing up.
+[2024-04-30 18:23:33][notice]server info fcgi:Off max execution time: 300 wp version:6.5.2 php version:8.3.2 db version:10.11.7 php ini:safe_mode: memory_limit:256M memory_get_usage:13,86 MB memory_get_peak_usage:14,33 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-04-30 18:23:33][notice]LiteSpeed Server.
+[2024-04-30 18:23:33][notice]Add LiteSpeed Rule
+[2024-04-30 18:23:33][notice]Prepare to backup backup_plugin files.
+[2024-04-30 18:23:33][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:5000
+[2024-04-30 18:23:37][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:5000 file size:22,02 MB
+[2024-04-30 18:23:37][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:5500
+[2024-04-30 18:23:42][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:5500 file size:23,80 MB
+[2024-04-30 18:23:42][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:6000
+[2024-04-30 18:23:45][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:6000 file size:24,93 MB
+[2024-04-30 18:23:45][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:6500
+[2024-04-30 18:23:49][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:6500 file size:31,38 MB
+[2024-04-30 18:23:49][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:7000
+[2024-04-30 18:23:52][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:7000 file size:32,15 MB
+[2024-04-30 18:23:52][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:7500
+[2024-04-30 18:23:57][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:7500 file size:33,52 MB
+[2024-04-30 18:23:57][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:8000
+[2024-04-30 18:24:01][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:8000 file size:35,60 MB
+[2024-04-30 18:24:01][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:8500
+[2024-04-30 18:24:06][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:8500 file size:40,18 MB
+[2024-04-30 18:24:06][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:9000
+[2024-04-30 18:24:13][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:9000 file size:45,39 MB
+[2024-04-30 18:24:13][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:9500
+[2024-04-30 18:24:19][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:9500 file size:46,60 MB
+[2024-04-30 18:24:19][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:10000
+[2024-04-30 18:24:23][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:10000 file size:47,29 MB
+[2024-04-30 18:24:23][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:10500
+[2024-04-30 18:24:30][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:10500 file size:50,45 MB
+[2024-04-30 18:24:30][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:11000
+[2024-04-30 18:24:36][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:11000 file size:50,83 MB
+[2024-04-30 18:24:36][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:11500
+[2024-04-30 18:24:42][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:11500 file size:51,69 MB
+[2024-04-30 18:24:42][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:12000
+[2024-04-30 18:24:48][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:12000 file size:52,76 MB
+[2024-04-30 18:24:48][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:12500
+[2024-04-30 18:24:54][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:12500 file size:54,11 MB
+[2024-04-30 18:24:54][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:13000
+[2024-04-30 18:25:01][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:13000 file size:56,41 MB
+[2024-04-30 18:25:01][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip index:13500
+[2024-04-30 18:25:08][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.part001.zip success. index:13500 file size:57,46 MB
+[2024-04-30 18:25:12][notice]Backing up backup_plugin completed.
+[2024-04-30 18:25:12][notice]Prepare to backup backup_uploads files.
+[2024-04-30 18:25:12][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_uploads.part001.zip index:500
+[2024-04-30 18:25:18][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_uploads.part001.zip success. index:500 file size:20,35 MB
+[2024-04-30 18:25:19][notice]Backing up backup_uploads completed.
+[2024-04-30 18:25:19][notice]Prepare to backup backup_content files.
+[2024-04-30 18:25:19][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_content.part001.zip index:500
+[2024-04-30 18:25:21][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_content.part001.zip success. index:500 file size:3,14 MB
+[2024-04-30 18:25:21][notice]Backing up backup_content completed.
+[2024-04-30 18:25:21][notice]Prepare to backup backup_core files.
+[2024-04-30 18:25:22][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:500
+[2024-04-30 18:25:27][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip success. index:500 file size:6,79 MB
+[2024-04-30 18:25:27][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:1000
+[2024-04-30 18:25:30][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip success. index:1000 file size:9,33 MB
+[2024-04-30 18:25:30][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:1500
+[2024-04-30 18:25:33][notice]In shutdown function last message type:8192 str:Creation of dynamic property Timber\Integrations::$wpml is deprecated
+[2024-04-30 18:25:33][error]Task timed out.
+[2024-04-30 18:25:44][notice]Start backing up.
+[2024-04-30 18:25:44][notice]server info fcgi:Off max execution time: 300 wp version:6.5.2 php version:8.3.2 db version:10.11.7 php ini:safe_mode: memory_limit:256M memory_get_usage:13,87 MB memory_get_peak_usage:14,33 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-04-30 18:25:44][notice]LiteSpeed Server.
+[2024-04-30 18:25:44][notice]Add LiteSpeed Rule
+[2024-04-30 18:25:44][notice]Prepare to backup backup_core files.
+[2024-04-30 18:25:44][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:1500
+[2024-04-30 18:25:45][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip success. index:1500 file size:10,11 MB
+[2024-04-30 18:25:45][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:2000
+[2024-04-30 18:25:49][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip success. index:2000 file size:10,94 MB
+[2024-04-30 18:25:49][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:2500
+[2024-04-30 18:25:53][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip success. index:2500 file size:13,25 MB
+[2024-04-30 18:25:53][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip index:3000
+[2024-04-30 18:25:55][notice]Compressing zip file:ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.part001.zip success. index:3000 file size:13,85 MB
+[2024-04-30 18:25:56][notice]Backing up backup_core completed.
+[2024-04-30 18:25:56][notice]Prepare to backup backup_merge files.
+[2024-04-30 18:25:56][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_db.zip
+[2024-04-30 18:25:56][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_all.part001.zip, filesize: 421,88 KB
+[2024-04-30 18:25:56][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_themes.zip
+[2024-04-30 18:25:57][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_all.part001.zip, filesize: 11,34 MB
+[2024-04-30 18:25:57][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_plugin.zip
+[2024-04-30 18:26:02][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_all.part001.zip, filesize: 65,93 MB
+[2024-04-30 18:26:03][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_uploads.zip
+[2024-04-30 18:26:09][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_all.part001.zip, filesize: 86,25 MB
+[2024-04-30 18:26:09][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_content.zip
+[2024-04-30 18:26:17][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_all.part001.zip, filesize: 89,34 MB
+[2024-04-30 18:26:17][notice]Prepare to zip file. file: ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_core.zip
+[2024-04-30 18:26:26][notice]Adding zip files completed.ninayco.helloeveryone.me_wpvivid-6631612b2e626_2024-04-30-18-22_backup_all.part001.zip, filesize: 102,81 MB
+[2024-04-30 18:26:35][notice]Backing up backup_merge completed.
+[2024-04-30 18:26:35][notice]Backup completed.
+[2024-04-30 18:26:35][notice]LiteSpeed Server.
+[2024-04-30 18:26:35][notice]Clear LiteSpeed Rule

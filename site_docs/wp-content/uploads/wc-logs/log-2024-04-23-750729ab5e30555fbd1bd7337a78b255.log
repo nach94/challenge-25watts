@@ -1,0 +1,1 @@
+2024-04-23T21:58:18+00:00 DEBUG Se llamó a Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count pero no se había registrado ningún tipo de pedido: puede que se haya realizado la llamada demasiado pronto.
