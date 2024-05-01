@@ -108,6 +108,8 @@ Las páginas de opciones son excelentes para ofrecer al cliente un lugar donde p
 |------------|----------|
 | Mi Web       | Toda una serie de campos personalizados para que el cliente pueda completar con sus datos básicos. |
 
+***
+
 ## Páginas desarrolladas para el Challenge
 
 | Nombre     | URL      |
